@@ -1,6 +1,6 @@
-# Tic-Tak-Toe Game
+# BaseTranscoder 
 
-A simple and interactive Tic-Tac-Toe game built with React, JavaScript, CSS, HTML.
+Convert Between Binary, ASCII, Hexadecimal, Decimal, and Octal Bases.
 
 ## How To Run The Project 
 
@@ -26,7 +26,7 @@ npm install
 npm start
 ```
 ## Play the Game
- [Visit my Tic-Tac-Toe Game](https://basetranscoder.netlify.app)
+ [Visit Basetranscoder](https://basetranscoder.netlify.app)
 ## Contributing
 - If you want others to contribute:
   - Fork the repository.
